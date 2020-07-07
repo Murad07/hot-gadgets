@@ -1,0 +1,50 @@
+.p-body {
+  padding-bottom: 80px;
+}
+
+.carousel-indicators li {
+  background-color: #d39e00;
+}
+
+.pd-title {
+  padding-bottom: 20px;
+}
+.card-body {
+  text-align: center;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+hr {
+  border: 4px solid darkorange;
+  border-radius: 8px;
+  width: 70px;
+  margin-bottom: 40px;
+}
+.t-center {
+  text-align: center;
+}
+.cat-img-m {
+  width: 100%;
+}
+.cat1-img {
+  width: 50%;
+  margin-top: 30%;
+  margin-bottom: 10%;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.orange-c {
+  color: orange;
+}
+a:hover {
+  text-decoration: none;
+  color: orangered;
+}
+footer {
+  text-align: center;
+}
